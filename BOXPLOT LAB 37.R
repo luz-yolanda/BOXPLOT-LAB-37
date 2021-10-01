@@ -1,5 +1,5 @@
 #################################################################
-# Hecho con gusto por Carla Carolina PÈrez Hern·ndez (UAEH)
+# Hecho con gusto por Luz Yolanda Rivera Álvarez (UAEH)
 #
 # LABORATORIO - Gr·ficos en R con ggplot2 para Ciencia de Datos
 # Boxplot en R (diagrama de cajas y vigotes)
